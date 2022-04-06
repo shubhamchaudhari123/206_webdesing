@@ -1,0 +1,16 @@
+<html>
+<body>
+<script>
+var a=28;
+    b=23;
+if(a>b)
+{
+  document.write("a is big number");
+ }
+ else
+ {
+     document.write("a is small number");
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+ <style>
+   h1{
+        color :GREEN;
+		text-align:center;
+		text-decoration:underline;
+		}
+	body{
+	     background-image:url("D:/ritesh/car.jpg");
+		 
+	     width:70%;
+		 height:800px;
+		 border:45px solid yellow;
+		 padding:50px;
+		 margin:20px;
+         }
+    #p1{
+	      background-color:red;
+		  color:white;
+		  margin:50px;
+		  padding:25px;
+		  border:50px solid;
+		  font-size:20px;
+		  }
+    #p2{
+	    
+	      background-color:red;
+		  color:white;
+		  margin:50px;
+		  padding:25px;
+		  border:50px solid;
+		  font-size:20px;
+		  }
+	     
+         
+    
+
+
+
+  </style>
+ </HEAD>
+
+ <BODY>
+ <h1>R C P IMRD SHIRPUR</h1>
+ <p id=p1>BCA:-The full form of BCA is Bachelors in Computer Application. BCA is a 3-year undergraduate degree programme that focusses on knowledge on the basics of computer application and software development. A BCA degree is considered to be at par with a BTech/BE degree in Computer Science or Information Technology. The degree helps interested students in setting up a sound academic base for an advanced career in Computer Applications.The course of BCA includes database management systems, operating systems, software engineering, web technology and languages such as C, C++, HTML, Java etc. The fees for BCA generally ranges from INR 37,500 to 5 lakh. The minimum and most important eligibility criteria for BCA followed across all colleges is 45 per cent marks in Class 12 or equivalent examination</p>
+ <p id=p2>INFO:-A BCA degree is considered to be at par with a BTech/BE degree in Computer Science or Information Technology. The degree helps interested students in setting up a sound academic base for an advanced career in Computer Applications.The course of BCA includes database management systems, operating systems, software engineering, web technology and languages such as C, C++, HTML, Ja</p>
+  
+
+  
+ </BODY>
+</HTML>
